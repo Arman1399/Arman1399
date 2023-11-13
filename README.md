@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arman Shaikh</h1>
 <h4 align="center">I am a Computer Engineer and enthusiast learner. I love to learn things related to the new technologies.</h4>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif" width="350px" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF1cGU3cXg3YTV1YTZobTh3YmhzbmUxcGoxMGRpYTcwdThrNXB5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman1399&label=Profile%20views&color=0e75b6&style=flat" alt="arman1399" /> </p>
